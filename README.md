@@ -1,2 +1,1 @@
-# Interview-Questions-Practice
-Practice with various interview questions. Problems/solutions are pushed onto branches.
+# https://leetcode.com/problems/max-increase-to-keep-city-skyline/
