@@ -1,2 +1,2 @@
 # Interview-Questions-Practice
-Practice with interview questions
+Practice with various interview questions
